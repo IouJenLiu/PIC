@@ -31,9 +31,9 @@ If you used this code for your experiments or found it helpful, please consider 
 </pre>
 
 ## Acknowledgement
-The MADDPG code is based on the DDPG implementation of https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail
+The MADDPG code is based on the DDPG implementation of https://github.com/ikostrikov/pytorch-ddpg-naf
 
-The improed MPE code is based on the MPE implementation of https://github.com/openai/multiagent-particle-envs
+The improved MPE code is based on the MPE implementation of https://github.com/openai/multiagent-particle-envs
 
 ## License
 PIC is licensed under the MIT License
