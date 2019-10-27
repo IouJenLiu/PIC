@@ -22,7 +22,7 @@ Please ensure that `multiagent-particle-envs` has been added to your `PYTHONPATH
 If you used this code for your experiments or found it helpful, please consider citing the following paper:
 
 <pre>
-@inproceedings{pic,
+@inproceedings{pic2019,
  author    = {Iou-Jen Liu and Raymond A. Yeh and Alexander G. Schwing},
  title     = {PIC: Permutation Invariant Critic for Multi-Agent Deep Reinforcement Learning},
  year      = {2019},
