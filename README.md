@@ -5,7 +5,7 @@ The repository contains Pytorch implementation of MADDPG with Permutation Invari
 ## Platform: 
 Ubuntu 16.04 
 
-## Known Dependencies: 
+## Dependencies: 
 Python (3.7), Pytorch (4.1.0), openAI gym (https://github.com/openai/gym)
 
 ## Install the improved MPE:
@@ -18,8 +18,10 @@ Please ensure that `multiagent-particle-envs` has been added to your `PYTHONPATH
 	python main_vec.py --exp_name coop_navigation_n6 --scenario simple_spread_n6  --critic_type gcn_max  --cuda 
     
 
+## Results
 
-## Paper citation
+
+## Paper
 
 If you used this code for your experiments or found it helpful, please consider citing the following paper:
 
