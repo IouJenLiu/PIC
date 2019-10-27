@@ -2,11 +2,11 @@
 
 The repository contains Pytorch implementation of MADDPG with Permutation Invariant Critic (PIC).
 
-## Platform: 
+## Platform and Dependencies: 
 Ubuntu 16.04 
-
-## Dependencies: 
-Python (3.7), Pytorch (1.1.0), openAI gym (https://github.com/openai/gym)
+Python (3.7)
+Pytorch (1.1.0)
+OpenAI gym (https://github.com/openai/gym)
 
 ## Install the improved MPE:
     cd multiagent-particle-envs
