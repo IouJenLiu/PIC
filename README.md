@@ -40,6 +40,8 @@ The MADDPG code is based on the DDPG implementation of https://github.com/ikostr
 
 The improved MPE code is based on the MPE implementation of https://github.com/openai/multiagent-particle-envs
 
+The GCN code is based on the implementation of https://github.com/tkipf/gcn
+
 ### License
 PIC is licensed under the MIT License
 
