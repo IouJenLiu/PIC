@@ -1,6 +1,6 @@
-# PIC: Permutation Invariant Critic for Multi-Agent Deep Reinforcement Learning #
-## CORL 2019 ##
-## [[Project Website]](http://www.isle.illinois.edu/~yeh17/projects/invariant_critic/index.html)
+## PIC: Permutation Invariant Critic for Multi-Agent Deep Reinforcement Learning #
+### CORL 2019
+#### [[Project Website]](http://www.isle.illinois.edu/~yeh17/projects/invariant_critic/index.html)
 
 Iou-Jen Liu&ast;, [Raymond A. Yeh](http://www.isle.illinois.edu/~yeh17/index.html)&ast;, [Alexander G. Schwing](http://www.alexander-schwing.de/)<br/>
 University of Illinois at Urbana-Champaign<br/>
@@ -20,26 +20,26 @@ If you used this code for your experiments or found it helpful, please consider 
 }
 </pre>
 
-## Platform and Dependencies: 
+#### Platform and Dependencies: 
 * Ubuntu 16.04 
 * Python (3.7)
 * Pytorch (1.1.0)
 * OpenAI gym (https://github.com/openai/gym)
 
-## Install the improved MPE:
+### Install the improved MPE:
     cd multiagent-particle-envs
     pip install -e .
 Please ensure that `multiagent-particle-envs` has been added to your `PYTHONPATH`.
 
-## Training 
+### Training 
     cd maddpg
 	python main_vec.py --exp_name coop_navigation_n6 --scenario simple_spread_n6  --critic_type gcn_max  --cuda 
 
-## Acknowledgement
+### Acknowledgement
 The MADDPG code is based on the DDPG implementation of https://github.com/ikostrikov/pytorch-ddpg-naf
 
 The improved MPE code is based on the MPE implementation of https://github.com/openai/multiagent-particle-envs
 
-## License
+### License
 PIC is licensed under the MIT License
 
