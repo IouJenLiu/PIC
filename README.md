@@ -1,6 +1,6 @@
 ## PIC: Permutation Invariant Critic for Multi-Agent Deep Reinforcement Learning #
 ### CORL 2019
-#### [[Project Website]](http://www.isle.illinois.edu/~yeh17/projects/invariant_critic/index.html)
+#### [[Project Website]](http://www.isle.illinois.edu/~yeh17/projects/invariant_critic/index.html) [[PDF]](https://128.84.21.199/abs/1911.00025)
 
 Iou-Jen Liu&ast;, [Raymond A. Yeh](http://www.isle.illinois.edu/~yeh17/index.html)&ast;, [Alexander G. Schwing](http://www.alexander-schwing.de/)<br/>
 University of Illinois at Urbana-Champaign<br/>
