@@ -22,9 +22,9 @@ If you used this code for your experiments or found it helpful, please consider 
 
 #### Platform and Dependencies: 
 * Ubuntu 16.04 
-* Python (3.7)
-* Pytorch (1.1.0)
-* OpenAI gym (https://github.com/openai/gym)
+* Python 3.7
+* Pytorch 1.1.0
+* OpenAI gym 0.10.9 (https://github.com/openai/gym)
 
 ### Install the improved MPE:
     cd multiagent-particle-envs
