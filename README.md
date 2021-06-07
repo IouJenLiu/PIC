@@ -25,6 +25,10 @@ If you used this code for your experiments or found it helpful, please consider 
 * Python 3.7
 * Pytorch 1.1.0
 * OpenAI gym 0.10.9 (https://github.com/openai/gym)
+* matplotlib
+* numba 0.43.1
+* llvmlite 0.32.1
+
 
 ### Install the improved MPE:
     cd multiagent-particle-envs
